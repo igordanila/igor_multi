@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multi.iml" filepath="$PROJECT_DIR$/multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi_services/multi_services.iml" filepath="$PROJECT_DIR$/multi_services/multi_services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi_web/multi_web.iml" filepath="$PROJECT_DIR$/multi_web/multi_web.iml" />
+    </modules>
+  </component>
+</project>

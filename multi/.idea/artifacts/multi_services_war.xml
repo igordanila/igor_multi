@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="multi_services:war">
+    <output-path>$PROJECT_DIR$/multi_services/target</output-path>
+    <root id="archive" name="${project.artifactId}-${project.version}.war">
+      <element id="artifact" artifact-name="multi_services:war exploded" />
+    </root>
+  </artifact>
+</component>
